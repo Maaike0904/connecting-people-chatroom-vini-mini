@@ -1,0 +1,32 @@
+{
+  "name": "my-first-chatroom",
+  "version": "1.0.0",
+  "description": "realtime chatroom",
+  "type": "module",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maaike0904/connecting-people-my-first-chatroom.git"
+  },
+  "keywords": [
+    "express",
+    "socket.io"
+  ],
+  "author": "Maaike Verplancke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Maaike0904/connecting-people-my-first-chatroom/issues"
+  },
+  "homepage": "https://github.com/Maaike0904/connecting-people-my-first-chatroom#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.0"
+  }
+}
