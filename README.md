@@ -1,8 +1,8 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
+# Vini Mini Chatroom
+<img width="1412" alt="Scherm­afbeelding 2023-05-15 om 13 35 00" src="https://github.com/Maaike0904/connecting-people-my-first-chatroom/assets/112861144/32be457d-49ce-4f8f-a4fe-7cc2e620a94c">
 
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
 
 ## Inhoudsopgave
 
