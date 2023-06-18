@@ -43,7 +43,7 @@ Bij deze opdracht komt user story 2 goed van pas; Connection tussen Vini Minions
 * And you are ready to go!
 
 ## Bronnen 📂 
-Justus zijn Realtime chatroom
+[Justus zijn Realtime chatroom](https://github.com/ju5tu5/barebonechat)
 
 ## Licentie 📛
 This project is licensed under the terms of the [MIT license](./LICENSE).
