@@ -2,6 +2,8 @@
 
 # Vini Mini Chatroom 💬
 <img width="1412" alt="Scherm­afbeelding 2023-05-15 om 13 35 00" src="https://github.com/Maaike0904/connecting-people-my-first-chatroom/assets/112861144/32be457d-49ce-4f8f-a4fe-7cc2e620a94c">
+### Github Pages 🌐
+[dust-chatroom.up.railway.app](https://vini-mini-chatroom-test.adaptable.app/)
 
 ## Inhoudsopgave 📔
 - [Beschrijving](#beschrijving)
@@ -26,9 +28,6 @@ Bij deze opdracht komt user story 2 goed van pas; Connection tussen Vini Minions
 * 🌄 Express
 * 🧦 Socket.io
 * 🚅 Railway
-
-### Github Pages 🌐
-[dust-chatroom.up.railway.app](https://vini-mini-chatroom-test.adaptable.app/)
 
 ## Installatie 📥
 * Installeer Github.pages
