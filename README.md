@@ -1,11 +1,9 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Vini Mini Chatroom
+# Vini Mini Chatroom 💬
 <img width="1412" alt="Scherm­afbeelding 2023-05-15 om 13 35 00" src="https://github.com/Maaike0904/connecting-people-my-first-chatroom/assets/112861144/32be457d-49ce-4f8f-a4fe-7cc2e620a94c">
 
-
-## Inhoudsopgave
-
+## Inhoudsopgave 📔
 - [Beschrijving](#beschrijving)
 - [Gebruik](#gebruik)
 - [Kenmerken](#kenmerken)
@@ -13,26 +11,39 @@
 - [Bronnen](#bronnen)
 - [Licentie](#licentie)
 
-## Beschrijving
+## Beschrijving 📝
+Ik heb voor Vini Mini een realtime chat gemaakt in de huisstijl van Vini Mini. Dit is gedaan met behulp van Socket.io, Node.js & Express. Zo kunnen de ouders op de Vini Mini site met elkaar in contact komen.
 
-<!-- Bij Beschrijving staat kort beschreven wat voor project het is en wat je hebt gemaakt -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+## Gebruik 📃
+Bij deze opdracht komt user story 2 goed van pas; Connection tussen Vini Minions. Door middel van deze chat kunnen ouders met elkaar chatten.
 
-## Gebruik
+## Kenmerken 👓
+🎠 HTML
+🎨 CSS
+🌉 Javascript
+🌇 Ejs
+🌠 Node.js
+🌄 Express
+🧦 Socket.io
+🚅 Railway
 
-<!-- Bij Gebruik staat de user story, hoe het werkt en wat je er mee kan. -->
-
-## Kenmerken
-
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? Misschien heb je iets met NodeJS gedaan, of heb je een framwork of library gebruikt? -->
+Github Pages 🌐
+[dust-chatroom.up.railway.app](https://vini-mini-chatroom-test.adaptable.app/)
 
 ## Installatie
-
-<!-- Bij Instalatie staat hoe een andere developer aan jouw repo kan werken -->
+* Installeer Github.pages
+* Installeer Node.js
+* Fork de deeltaak
+* Kklik op Code van de geforkte deeltaak en open het project met GitHub Desktop
+* Kies waar je het project wilt opslaan op je computer
+* Open Visual Studio Code
+* Open de terminal in VS Code
+* Typ "npm init", "npm install" & "npm install socket.io" in je terminal
+* Daarna typ je npm start in je terminal
+* And you are ready to go!
 
 ## Bronnen
+Justus zijn Realtime chatroom
 
 ## Licentie
-
 This project is licensed under the terms of the [MIT license](./LICENSE).
