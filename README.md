@@ -18,19 +18,19 @@ Ik heb voor Vini Mini een realtime chat gemaakt in de huisstijl van Vini Mini. D
 Bij deze opdracht komt user story 2 goed van pas; Connection tussen Vini Minions. Door middel van deze chat kunnen ouders met elkaar chatten.
 
 ## Kenmerken 👓
-🎠 HTML
-🎨 CSS
-🌉 Javascript
-🌇 Ejs
-🌠 Node.js
-🌄 Express
-🧦 Socket.io
-🚅 Railway
+* 🎠 HTML
+* 🎨 CSS
+* 🌉 Javascript
+* 🌇 Ejs
+* 🌠 Node.js
+* 🌄 Express
+* 🧦 Socket.io
+* 🚅 Railway
 
-Github Pages 🌐
+### Github Pages 🌐
 [dust-chatroom.up.railway.app](https://vini-mini-chatroom-test.adaptable.app/)
 
-## Installatie
+## Installatie 📥
 * Installeer Github.pages
 * Installeer Node.js
 * Fork de deeltaak
@@ -42,8 +42,8 @@ Github Pages 🌐
 * Daarna typ je npm start in je terminal
 * And you are ready to go!
 
-## Bronnen
+## Bronnen 📂 
 Justus zijn Realtime chatroom
 
-## Licentie
+## Licentie 📛
 This project is licensed under the terms of the [MIT license](./LICENSE).
